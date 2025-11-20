@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SpeakNative AI",
+  "description": "An AI-powered English speaking coach that helps you practice topics, optimizes your phrasing, and extracts useful language chunks for review.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
